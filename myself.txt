@@ -1,2 +1,5 @@
-Hello I am Ashna. I am currently studying FS.c Engineering and have a keen interest in Artificial Intelligence (AI). Although I am a beginner in this field, I possess a foundational understanding of AI concepts. I am passionate about collaborating with my seniors and learning from their expertise.
-
+Hello I am Ashna. 
+I am currently studying FS.c Engineering and have a keen interest in Artificial Intelligence (AI).
+Although I am a beginner in this field, I possess a foundational understanding of AI concepts. 
+I am passionate about collaborating with my seniors and learning from their expertise.
+It's all about myself.
